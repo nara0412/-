@@ -1,0 +1,2251 @@
+[
+  {
+    "name": "APC SURT20KRMXLT UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SURT20KRMXLT",
+      "Capacity (W)": "16000 W",
+      "Capacity (VA)": "20000 VA",
+      "Rack Height": "12U",
+      "Backup/Run Time (Full Load)": "4.90 Minutes",
+      "Backup/Run Time (Half Load)": "15.30 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower/Rack Mountable",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "220 V AC",
+      "Maximum Battery Recharge Time": "2.50 Hour",
+      "Output Voltage": "208 V AC",
+      "Receptacles": "2 x NEMA L6-20R\n4 x NEMA L6-30R\n1 x Hard Wire 3-wire (2PH + G)",
+      "Serial Port": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/fzM323/apc-ups-surt20krmxlt",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP1500PFCLCD UPS",
+    "price": 239.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1500PFCLCD",
+      "Capacity (W)": "1000 W",
+      "Capacity (VA)": "1500 VA",
+      "Backup/Run Time (Full Load)": "1.98 Minutes",
+      "Backup/Run Time (Half Load)": "10.98 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-11\nRG-6",
+      "Form Factor": "Tower",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "10 x NEMA 5-15R",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "(18 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/qvVBD3/cyberpower-cp1500pfclcd-ups-cp1500pfclcd",
+    "comments": [
+      "There have been a lot of intense storms in my area this summer and the power went out in my apartment building 5 times in a month (including twice since I built my PC, so the UPS has already been incredibly useful). This was a very necessary purchase, no complaints here",
+      "Not spending a ton of money on a computer to not keep it protected works great and I can see how much I draw very good UPS.",
+      "Wanted to stabilize the power since I have a big PSU and this for the bill nicely.",
+      "whiny",
+      "It has saved my work from deletion a few times over now, and it's right at the stopping point in the market before prices skyrocket.",
+      "Of all the UPSs that I have tried, this is the one that worked best for me, I have not had to change batteries, it shows me the energy consumption on the computer and it takes great care of me in the face of energy changes that we normally and habitually suffer in the Dominican Republic.",
+      "I love this thing and the monitoring software is simple and easy to use. It's great value for a 1500VA 1000W and Power Factor Correction (PFC) UPS. What I will say though, if you have a power supply for your PC that is half decent or from any decently-known name, you don't need to pay for the PFC version, get the CP1500AVRLCD which is the same thing with a simulated sine wave output instead and save the $20-$40. If you needed the PFC aspect, you would know that you would need it because of the special electronics you'd be plugging in.",
+      "I love this UPS! My area gets a lot of random power outages for some reason, and I sadly learned the hard way after frying my last CPU that I need a UPS :'( which still confused me because even without the UPS, I had my PC connected to a surge protector. But I guess it wasn't working...\nAnyways, this UPS works great and has awesome 1000W capacity to power my gaming rig. It also has an LCD screen on it which is super convenient to see current battery level, current load, etc. Also the software is easy to set up and use. I set it up to shut the PC down safely immediate when a power loss is detected.",
+      "Solid UPS for an area with brown power and lines that frequently go down to storms. Supporting an EVGA 1000w G2 + Ryzen 5950x + 3080Ti FTW3 build with 2 monitors. Gives me plenty of time to shut down in case of an outage.",
+      "Working very well so far, painless setup."
+    ]
+  },
+  {
+    "name": "APC SRT10KXLI UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SRT10KXLI",
+      "Capacity (W)": "10000 W",
+      "Capacity (VA)": "10000 VA",
+      "Alarm": "Battery Failure",
+      "Backup/Run Time (Full Load)": "3 Minutes",
+      "Backup/Run Time (Half Load)": "12 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "1.50 Hour",
+      "Output Voltage": "230 V AC",
+      "Protection Type": "Surge\nSpike\nLightning",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/MWX2FT/apc-ups-srt10kxli",
+    "comments": []
+  },
+  {
+    "name": "APC Back-UPS 1500 UPS",
+    "price": 189.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS 1500",
+      "Part #": "BX1500M",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA"
+    },
+    "rating": "(7 Ratings, 4.1 Average)",
+    "link": "https://pcpartpicker.com/product/KHMwrH/apc-back-ups-1500-ups-bx1500m",
+    "comments": [
+      "I use this as a redundecy for the PC. Works well and I plan on putting my wifi and a server on this in the future.\nI has a light on at all times and everything is analog buttons. There is a screen that helps too. It beeps real loud too let you know its using its own battery.",
+      "Great UPS. If the battery dies don't bother buying one from APC. I sat back ordered for over a year without a replacement. I ended up ordering a generic on Amazon and its been working great. In fact the generic on Amazon is what the company ended up referring me to purchase.",
+      "The unit I have has given me no issues, which I can honestly say has surprised me, and it has saved my PC twice. I've replaced the battery twice, once because of a power surge and once because of battery age, and both replacements were easy. I got my batteries from B&H.",
+      "The unit worked well... for a week. After that, I was getting F01/F02 errors every other time I tried to turn my computer on. Restarting the unit would work... for about a day before the errors would come up again. After three times, I gave up: since F02s indicate actual physically blown fuses, and since I'm working near potentially-flammable items and carpet, I decided it wasn't worth the risk and refunded the unit. The repeated start-stops when the unit fuses blew probably damaged my computer's components far more than had I just been using the wall outlet... Maybe I just got unlucky, but given this is my first experience with APC, I was extremely disappointed. I'll just be using a standard surge protector from now on.\nMarked $0.00 because it was refunded.",
+      "Didn't expect anything less",
+      "What's the point of spending a ton of money on a really good computer build if you're not going to protect it from a power surge? I went way overboard with this but I really wanted something that would handle electrical anomalies with ease and reliable protection. I can run 2 monitors, my rig, a space heater, and my printer for an extended 1hr to 1hr 30mins after my power goes out. I know I won't be able to have internet but if I were to hook my router and modem into this thing, I could still potentially run for a bit with electricity. Def a nice to have item and not a must have though.",
+      "My town’s electricity is **** so this is a must have"
+    ]
+  },
+  {
+    "name": "APC Back-UPS Pro 1500S UPS",
+    "price": 299.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS Pro 1500S",
+      "Part #": "BR1500MS2",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA",
+      "Backup/Run Time (Full Load)": "4 Minutes 7 Seconds",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "(4 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Yf92FT/apc-back-ups-pro-1500s-ups-br1500ms2",
+    "comments": [
+      "We get only 2 or 3 power failures a year but that is too many for me to lose all connectivity in my home.\nI connected my router, modem, IP Phone, PiHoles (2), and critical switches and my Mother Ship computer.\nWhen the power fails it alerts me by text and email before it shuts down the Mother Ship https://pcpartpicker.com/b/xFGqqs It also sets up a countdown timer showing how long the network will stay functional which is generally 172 minutes.\nIt also smooths out the power to everything connected to the regulated outlets.\nThis thing is priceless for its functionality.",
+      "When you need protection.",
+      "performed well as expected, had no issues so far. one of the most vital important but underrated PC component. My friend literally told me to invest in a good reputable UPS in order to protect all the PC components from potential outage or power surge, abnormal voltages...\nQuoted \"The UPS is also a surge protector that protects connected devices from power problems, like surges or abnormal voltages, which can damage, reduce lifespan, or affect performance of electronic equipment and devices.\""
+    ]
+  },
+  {
+    "name": "APC SRT10KRMXLI UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SRT10KRMXLI",
+      "Capacity (W)": "10000 W",
+      "Capacity (VA)": "10000 VA",
+      "Rack Height": "6U",
+      "Alarm": "Battery Failure",
+      "Backup/Run Time (Full Load)": "3 Minutes",
+      "Backup/Run Time (Half Load)": "12 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Rack-mountable",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "1.50 Hour",
+      "Output Voltage": "230 V AC",
+      "Protection Type": "Surge\nSpike\nLightning",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/CRGj4D/apc-ups-srt10krmxli",
+    "comments": []
+  },
+  {
+    "name": "CyberPower PR2200LCDSL UPS",
+    "price": 942.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "PR2200LCDSL",
+      "Capacity (W)": "1980 W",
+      "Capacity (VA)": "2070 VA",
+      "Alarm": "Low Battery\nOn Battery\nOverload\nBattery Missing\nFault",
+      "Backup/Run Time (Full Load)": "3.30 Minutes",
+      "Backup/Run Time (Half Load)": "10.20 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Input Voltage": "120 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "6 x NEMA 5-20R\n1 x NEMA L5-20R",
+      "Serial Port": "Yes",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Nd648d/cyberpower-ups-pr2200lcdsl",
+    "comments": []
+  },
+  {
+    "name": "APC SRT10KXLT UPS",
+    "price": 5600.0,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SRT10KXLT",
+      "Capacity (W)": "10000 W",
+      "Capacity (VA)": "10000 VA",
+      "Backup/Run Time (Full Load)": "4 Minutes",
+      "Form Factor": "Tower",
+      "Input Voltage": "208 V AC",
+      "Maximum Battery Recharge Time": "1.50 Hour",
+      "Output Voltage": "208 V AC",
+      "Receptacles": "1 x Hard Wire 3-wire (2PH + G)\n4 x NEMA L6-20R\n2 x NEMA L6-30R"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/w4Crxr/apc-ups-srt10kxlt",
+    "comments": []
+  },
+  {
+    "name": "APC SRT10KRMXLT UPS",
+    "price": 5149.06,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SRT10KRMXLT",
+      "Capacity (W)": "10000 W",
+      "Capacity (VA)": "10000 VA",
+      "Rack Height": "6U",
+      "Backup/Run Time (Full Load)": "4 Minutes",
+      "Form Factor": "Rack-mountable",
+      "Input Voltage": "208 V AC",
+      "Maximum Battery Recharge Time": "1.50 Hour",
+      "Output Voltage": "208 V AC",
+      "Receptacles": "1 x Hard Wire 3-wire (2PH + G)\n4 x NEMA L6-20R\n2 x NEMA L6-30R"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/DRGj4D/apc-ups-srt10krmxlt",
+    "comments": []
+  },
+  {
+    "name": "CyberPower ST425 UPS",
+    "price": 69.9,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "ST425",
+      "Capacity (W)": "260 W",
+      "Capacity (VA)": "425 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/LZGnTW/cyberpower-st425-ups-st425",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP1500AVRLCD3 UPS",
+    "price": 199.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1500AVRLCD3",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA",
+      "Communication": "USB, Serial",
+      "Data line protection": "Ethernet, Coaxial",
+      "Outlets": "12 (6 surge, 6 surge + battery backup)",
+      "Output": "120 VAC ± 5%",
+      "Plug type & cord:": "NEMA 5-15P, 6ft. cord",
+      "Runtime (half/full)": "12 minutes / 3 minutes",
+      "Topology": "Line Interactive",
+      "USB Charge Ports": "2 (1 USB-A 2.4A, 1 USB-C 15W)",
+      "Waveform": "Simulated Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/GRjBD3/cyberpower-cp1500avrlcd3-ups-cp1500avrlcd3",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP1000PFCLCD UPS",
+    "price": 179.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1000PFCLCD",
+      "Capacity (W)": "600 W",
+      "Capacity (VA)": "1000 VA",
+      "Backup/Run Time (Full Load)": "3 Minutes",
+      "Backup/Run Time (Half Load)": "9 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RG-6\nRJ-11\nRJ-45",
+      "Form Factor": "Mini-tower",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "10 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "(6 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/thqbt6/cyberpower-ups-cp1000pfclcd",
+    "comments": [
+      "Been a few times now my house has had a brown out or black out and this bad boy definitely saved me while I was working. Any interruption in power and you hear it power on instantly.",
+      "I previously purchased a simulated sinewave 850v and it lasted 2 minutes when at 25% load. After some research, I figured out the problem and purchased a replacement. Go with a true sinewave.\nUpdate - Even this bigger sine wave UPS won't live up to the advertised runtime. At 100 watts I'd be lucky to get 15 minutes out of it.",
+      "After several weeks of having this ups I am glad I have it. The power here goes out for a few seconds sometimes, especially during storms. I never even think about or see the ups until I hear that click that means it's running on battery power. I don't do a lot of important work, but it is nice to not have to restart my computer and wait for my router to come back online when the power blinks out.\nI have a 500w power supply and was a little worried about only getting the 1000VA/600w model, but looking at the screen I only use around 100 watts under normal use, and even when stress testing the cpu (Ryzen 5 1500x) and gpu (GTX 1060 6GB), it doesn't go much over 200 watts. I have my modem/router, pc, and monitor all plugged into the battery side, and this is one of the few times that I've been happy I didn't spend extra for a more powerful unit.",
+      "A fantastic choice of UPS! It's a Line Interactive type, which means that it will power your PC off of mains power directly, avoiding the battery altogether unless there is a blackout or brownout, and it compensates for inconsistent mains power by automatically correcting undervoltages or overvoltages. It also has something called \"Pure Sine Wave\" technology, which is just a fancy way of saying that it's digital DC-to-AC transformer is good enough to fool a high-end \"Active PFC\" PC power supply into thinking it's getting \"authentic\" AC.\nRuns out of the box, but also includes a USB hookup and pleasant monitoring software (that stays quiet when you aren't looking for it) if you want to monitor your UPS more directly. The monitoring software cheekily integrates with both Ubuntu and Windows 10, providing battery charge levels to the OS as if the whole computer were a laptop!",
+      "Buy one if you're considering one and you won't regret the purchase."
+    ]
+  },
+  {
+    "name": "CyberPower PR3000LCD UPS",
+    "price": 1848.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "PR3000LCD",
+      "Capacity (W)": "2700 W",
+      "Capacity (VA)": "3000 VA",
+      "Alarm": "Low Battery\nOn Battery\nOverload",
+      "Backup/Run Time (Full Load)": "6 Minutes",
+      "Backup/Run Time (Half Load)": "16.80 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Form Factor": "Tower",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "2 x NEMA 5-20R\n8 x NEMA 5-15R"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/G9Wrxr/cyberpower-ups-pr3000lcd",
+    "comments": []
+  },
+  {
+    "name": "APC Back-UPS Pro 1500VA UPS",
+    "price": 201.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS Pro 1500VA",
+      "Part #": "BN1500M2",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/gXjBD3/apc-back-ups-pro-1500va-ups-bn1500m2",
+    "comments": []
+  },
+  {
+    "name": "PowerWalker Basic VI 2200 STL UK UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "PowerWalker",
+      "Model": "Basic VI 2200 STL UK",
+      "Part #": "10121089\nBasic VI 2200 STL UK",
+      "Capacity (W)": "1320 W",
+      "Capacity (VA)": "2200 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/rY26Mp/powerwalker-basic-vi-2200-stl-uk-ups-10121089",
+    "comments": []
+  },
+  {
+    "name": "CyberPower OR2200PFCRT2U UPS",
+    "price": 740.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "OR2200PFCRT2U",
+      "Capacity (W)": "1320 W",
+      "Capacity (VA)": "2000 VA",
+      "Backup/Run Time (Full Load)": "7.80 Minutes",
+      "Backup/Run Time (Half Load)": "19.80 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RG-6\nRJ-11",
+      "Form Factor": "Tower/Rack Mountable",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "8 x NEMA 5-20R",
+      "Switching Time": "4 ms",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/nzM323/cyberpower-ups-or2200pfcrt2u",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP550SLG UPS",
+    "price": 77.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP550SLG",
+      "Capacity (W)": "330 W",
+      "Capacity (VA)": "550 VA",
+      "Backup/Run Time (Full Load)": "2 Minutes",
+      "Backup/Run Time (Half Load)": "8 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-11",
+      "Form Factor": "Desktop",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "4 x NEMA 5-15R",
+      "USB": "Yes"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/tzM323/cyberpower-ups-cp550slg",
+    "comments": [
+      "Only thing I don't like is the beeping noise it makes when the battery is turned on and there's a power surge. wish there was a way to turn that function off."
+    ]
+  },
+  {
+    "name": "CyberPower EC850LCD UPS",
+    "price": 119.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "EC850LCD",
+      "Capacity (W)": "510 W",
+      "Capacity (VA)": "850 VA",
+      "Battery Chemistry": "Lead Acid",
+      "Dataline Protection": "RJ-11",
+      "Form Factor": "Desktop",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "6 x NEMA 5-15R",
+      "USB": "Yes"
+    },
+    "rating": "(3 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/kYrcCJ/cyberpower-ups-ec850lcd",
+    "comments": [
+      "When it works, it works well enough. However, me and my partner have taken to calling it the \"Banshee in a Box\" Occasionally, (presumably if my house power switched off too fast) it will fail to switch the battery on and scream at the top of its lungs until you reset it by holding the power button. It was rather startling the first time we were woken up in the middle of the night by it. Either way, it's protecting my computer from shortages and the banshee scream happens infrequent enough now that I don't feel the need to switch to a new model.",
+      "I have this UPS for my peripherals + a CyberPower1000 - with 530 watt capacity just for my PC and Monitor."
+    ]
+  },
+  {
+    "name": "APC Back-UPS Pro 1500 UPS",
+    "price": 304.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS Pro 1500",
+      "Part #": "BR1500G",
+      "Capacity (W)": "865 W",
+      "Capacity (VA)": "1500 VA",
+      "Backup/Run Time (Full Load)": "3 Minutes",
+      "Backup/Run Time (Half Load)": "13 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "5 x NEMA 5-15R"
+    },
+    "rating": "(7 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/ksJkcf/apc-back-ups-pro-1500-ups-br1500g",
+    "comments": [
+      "Saved my a$$ from brown outs followed by a blown transformer the day after I bought. Recommended.",
+      "Update: Had a few brown outs, power dips and a one or 2 power cuts. The UPS is doing it's job. Best purchase ever.",
+      "Bought this on a Sunday. On the next day, there was a thunderstorm and power dropped 4 times before the transformer blew. Saved my PC. Best purchasing decision. Originally bought with the intent to flash PC components, which is good to have a back up in the event power goes. Used it while flashing my motherboard.",
+      "Besides needing a PDU to properly handle extra outlets this thing is great. It's already saved me during two power outages and even my networking cables come through it.",
+      "Got to protect the investment. power has gone out several times... this thing has saved myt computer from shutting down hard.",
+      "Use them at work as well. Battery will outlast the warranty. Replacements and upgrades are relatively inexpensive. The UPS market is pretty much locked down already anyway."
+    ]
+  },
+  {
+    "name": "APC SUA5000RMI5U UPS",
+    "price": 9600.0,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SUA5000RMI5U",
+      "Capacity (W)": "4000 W",
+      "Capacity (VA)": "5000 VA",
+      "Rack Height": "5U",
+      "Backup/Run Time (Full Load)": "9.40 Minutes",
+      "Backup/Run Time (Half Load)": "26.70 Minutes",
+      "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "220 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "230 V AC",
+      "Receptacles": "8 x IEC 320-C13\n2 x IEC Jumper\n6 x IEC 320-C19"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/8BPzK8/apc-ups-sua5000rmi5u",
+    "comments": []
+  },
+  {
+    "name": "APC Back-UPS Pro 1000S UPS",
+    "price": 171.94,
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS Pro 1000S",
+      "Part #": "BR1000MS",
+      "Capacity (W)": "600 W",
+      "Capacity (VA)": "1000 VA"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/nCPgXL/apc-back-ups-pro-1000s-ups-br1000ms",
+    "comments": [
+      "worked great so far"
+    ]
+  },
+  {
+    "name": "APC Back-UPS Pro 1500VA for Gaming UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS Pro 1500VA for Gaming",
+      "Part #": "BGM1500B",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/6DRYcf/apc-back-ups-pro-1500va-for-gaming-ups-bgm1500b",
+    "comments": []
+  },
+  {
+    "name": "APC Back-UPS Pro 700VA UPS",
+    "price": 170.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS Pro 700VA",
+      "Part #": "BR700G",
+      "Capacity (W)": "420 W",
+      "Capacity (VA)": "700 VA",
+      "Backup/Run Time (Full Load)": "3 Minutes",
+      "Backup/Run Time (Half Load)": "12 Minutes",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "3 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "USB": "Yes"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/zxYWGX/apc-back-ups-pro-700va-ups-br700g",
+    "comments": [
+      "This was a let-down by the German technology house. The battery gave up. Waiting for a new battery.",
+      "Must have. Often overlooked when it comes the pc systems"
+    ]
+  },
+  {
+    "name": "APC Back-UPS Pro 1500VA for Gaming UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS Pro 1500VA for Gaming",
+      "Part #": "BGM1500",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/WtD7YJ/apc-back-ups-pro-1500va-for-gaming-ups-bgm1500",
+    "comments": []
+  },
+  {
+    "name": "APC SRT5KXLI UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SRT5KXLI",
+      "Capacity (W)": "4500 W",
+      "Capacity (VA)": "5000 VA",
+      "Alarm": "Battery Failure",
+      "Backup/Run Time (Full Load)": "4 Minutes",
+      "Backup/Run Time (Half Load)": "12 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "230 V AC",
+      "Protection Type": "Surge\nSpike\nLightning",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/s3FXsY/apc-ups-srt5kxli",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CST135XLU UPS",
+    "price": 149.99,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CST135XLU",
+      "Capacity (W)": "810 W",
+      "Capacity (VA)": "1350 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/zZTZxr/cyberpower-cst135xlu-ups-cst135xlu",
+    "comments": []
+  },
+  {
+    "name": "CyberPower PR1500LCD UPS",
+    "price": 700.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "PR1500LCD",
+      "Capacity (W)": "1050 W",
+      "Capacity (VA)": "1500 VA",
+      "Alarm": "On Battery\nLow Battery\nOverload",
+      "Backup/Run Time (Full Load)": "7.98 Minutes",
+      "Backup/Run Time (Half Load)": "24 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Mini-tower",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "8 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/zQVBD3/cyberpower-ups-pr1500lcd",
+    "comments": [
+      "Says 1500W everywhere except here - hopefully it actually is 1500W, because otherwise it might trigger if I ever max load it."
+    ]
+  },
+  {
+    "name": "CyberPower CP1350AVRLCD UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1350AVRLCD",
+      "Capacity (W)": "810 W",
+      "Capacity (VA)": "1350 VA",
+      "Backup/Run Time (Full Load)": "2 Minutes",
+      "Backup/Run Time (Half Load)": "9 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-45\nRJ-11\nRG-6",
+      "Form Factor": "Tower",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "16 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "4 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "4 ms",
+      "USB": "Yes"
+    },
+    "rating": "(4 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/WkTrxr/cyberpower-ups-cp1350avrlcd",
+    "comments": [
+      "Can keep my system running until the backup generator kicks in even under load",
+      "Bought this to replace my last CyberPower UPS after its battery just died from years and years of use. According to the app, the battery backup could run my PC (Ryzen 5 5600X, Radeon 6800 XT} for 71 minutes. Of course, that would be a lot less if I had a game going that used the GPU a lot.",
+      "Does what it needs to do. It found out my plug has a wiring fault - not even my receptacle tester caught on to the wiring fault.\nSet it up once I opened it, haven't really messed with it since. It has a nice amount of features (a few surge plugs and a few surge + battery plugs). It also has USB ports to charge mobile devices from, which would be great in a bad storm if the power goes out.",
+      "I believe this is the UPS that I have, it was bought a year ago for my laptop, no problems and is doing great."
+    ]
+  },
+  {
+    "name": "CyberPower AVRG750U UPS",
+    "price": 119.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "AVRG750U",
+      "Capacity (W)": "450 W",
+      "Capacity (VA)": "750 VA",
+      "Alarm": "On Battery\nLow Battery\nOverload",
+      "Backup/Run Time (Full Load)": "7 Minutes",
+      "Backup/Run Time (Half Load)": "2 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-11",
+      "Form Factor": "Desktop",
+      "Input Voltage": "120 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Protection Type": "Surge\nEMI\nRFI",
+      "Receptacles": "12 x NEMA 5-15R",
+      "USB": "Yes",
+      "Waveform Type": "Simulated Sine Wave"
+    },
+    "rating": "(2 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/HHNypg/cyberpower-ups-avrg750u",
+    "comments": [
+      "Great UPS that had more than enough power for the purposes of this rig. Adds an extra layer of comfort and safety knowing I won't lose everything if the power goes out in one of our crazy BC storms.",
+      "I did my reading and this apparently was one of the better units to get from CyberPower. Pretty heavy, but does the job. No problems so far. Plenty of sockets and is half a surge protector. Loving it actually."
+    ]
+  },
+  {
+    "name": "APC SURTA3000XL UPS",
+    "price": 3299.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SURTA3000XL",
+      "Capacity (W)": "2100 W",
+      "Capacity (VA)": "3000 VA",
+      "Alarm": "On Battery\nLow Battery\nOverload",
+      "Backup/Run Time (Full Load)": "14.10 Minutes",
+      "Backup/Run Time (Half Load)": "33.90 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "6 x NEMA 5-15R\n2 x NEMA 5-20R",
+      "Serial Port": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/w2RFf7/apc-ups-surta3000xl",
+    "comments": []
+  },
+  {
+    "name": "Trust Paxxon UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Trust",
+      "Part #": "23505",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/tbh2FT/trust-paxxon-ups-23505",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP1300EPFCLCD UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1300EPFCLCD",
+      "Capacity (W)": "780 W",
+      "Capacity (VA)": "1300 VA"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Rw3H99/cyberpower-cp1300epfclcd-ups-cp1300epfclcd",
+    "comments": [
+      "It gets the job done. In Australia, CyberPower units are usually the cheapest for around $250-$400 AUD for 1000-1300VA units.\nHowever, there was a video circulating on Reddit of a unit catching fire if you unplug and re-plug it into the wall during use. It was blamed on some QA issues with some flammable glue(??). I have emailed CyberPower for comment and they have said that it is due to improper grounding. You are not supposed to unplug it from the wall, even when the wall switch is off (and therefore, ungrounding the unit) and plug it back in (reintroducing the ground connection) as it can catch fire. Scary. A reminder to never mess around with these things otherwise they will explode in your face. Only unplug UPSs while the unit itself is switched off.\nMine hasn't caught fire yet, so, 5 stars for now!"
+    ]
+  },
+  {
+    "name": "APC BE600M1 UPS",
+    "price": 82.49,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BE600M1",
+      "Capacity (W)": "330 W",
+      "Capacity (VA)": "600 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/FLLFf7/apc-be600m1-ups-be600m1",
+    "comments": []
+  },
+  {
+    "name": "CyberPower OR2200LCDRT2U UPS",
+    "price": 665.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "OR2200LCDRT2U",
+      "Capacity (W)": "1320 W",
+      "Capacity (VA)": "2000 VA",
+      "Alarm": "Low Battery\nOn Battery\nOverload\nBattery Missing\nFault",
+      "Backup/Run Time (Full Load)": "4.80 Minutes",
+      "Backup/Run Time (Half Load)": "13.20 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-11\nRJ-45",
+      "Form Factor": "Tower/Rack Mountable",
+      "Input Voltage": "120 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Protection Type": "EMI / RFI\nOverload\nSurge",
+      "Receptacles": "8 x NEMA 5-20R",
+      "Serial Port": "Yes",
+      "USB": "Yes",
+      "Waveform Type": "Simulated Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/hf8H99/cyberpower-ups-or2200lcdrt2u",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP1350PFCLCD UPS",
+    "price": 219.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1350PFCLCD",
+      "Capacity (W)": "810 W",
+      "Capacity (VA)": "1350 VA"
+    },
+    "rating": "(6 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/g6X2FT/cyberpower-cp1350pfclcd-ups-cp1350pfclcd",
+    "comments": [
+      "After I had a few power outages, I decided to invest in this machine and so far I'm happy with it. It runs for about 20 minutes with everything on.",
+      "I really think people underestimate the usefulness of an UPS. I have had 3 power outages this summer and this thing has worked flawlessly. One time I didn't even realize the power went out until I got booted from game for network issues. It allows me plenty of time to shutdown my computer properly and the front facing USB ports are nice for charging phones or tablets in an emergency situation.",
+      "It's running great. Nice to have an UPS incase the power goes out. CyberPower makes great UPSs and the software is nice to monitor and tweak the settings.",
+      "My second CyberPower UPS (the first is still in use), and not disappointed. Easily supports the full system plus other peripherals (modem, router, etc.).",
+      "Power outages and brownouts are fairly common where I live, and the wiring in my house is not great, hence why I decided to buy a UPS. This particular model is designed to work with active PFC power supplies (which is not supposed to strain the PSU when it goes into batter backup mode), which is why I chose to go with this one over some of the cheaper models that only offered simulated sine wave. It's already saved me from a few outages in the month that I've had it, so it's doing it's job pretty well, so far. My only gripe is that the software looks extremely outdated, but that's a small con."
+    ]
+  },
+  {
+    "name": "APC SURTD6000RMXLP3U UPS",
+    "price": 7299.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SURTD6000RMXLP3U",
+      "Capacity (W)": "4200 W",
+      "Capacity (VA)": "6000 VA",
+      "Rack Height": "3U",
+      "Backup/Run Time (Full Load)": "4.40 Minutes",
+      "Backup/Run Time (Half Load)": "14.10 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Rack-mountable",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "220 V AC",
+      "Maximum Battery Recharge Time": "2.50 Hour",
+      "Output Voltage": "208 V AC",
+      "Receptacles": "1 x NEMA 5-20R\n4 x NEMA L14-30R\n1 x NEMA L6-30R",
+      "Serial Port": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/HM8H99/apc-ups-surtd6000rmxlp3u",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP1500AVRLCD UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1500AVRLCD",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA",
+      "Alarm": "Low Battery\nOn Battery\nOverload",
+      "Backup/Run Time (Full Load)": "3 Minutes",
+      "Backup/Run Time (Half Load)": "11 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Battery Life": "6 Year",
+      "Dataline Protection": "RJ-45\nType F Connector\nRJ-11",
+      "Emergency Power OFF": "No",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "4 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "4 ms",
+      "USB": "Yes",
+      "Waveform Type": "Simulated Sine Wave"
+    },
+    "rating": "(15 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/69Wrxr/cyberpower-ups-cp1500avrlcd",
+    "comments": [
+      "Great ups",
+      "I get power outages from time to time and this baby will keep my fancy rig from frying.",
+      "Fits my needs well. It will give me ample time to shut my rig down during a power outage (around 35 - 40 minutes), and then give me some extra time to help charge my phone or run a little lamp. It has a very good amount of power ports, a usb-c, usb port, and a nice little display. It's an investment protection; some added insurance and peace of mind. I didn't want to drop months of hard earned savings just to have it fried out a week later to a power surge or volt drop. It was worth the extra couple weeks of waiting.",
+      "This UPS works well. Gives me plenty of time to shut down my system, and with the remaining battery charge, was able to recharge multiple phones many times, and use my USB lamp during a 24 hour power outage. And it still had half it's battery left at the end of the power outage!",
+      "Does it's job. so far' it's saved my pc from about 2 hours worth of power outages, over the last 3 years.",
+      "A++ I wouldn't have a pc without one",
+      "Great. --more then that. When my power went out I was able to blast music off of my computer for hours, and many of which, I had my windows down.",
+      "It's a chonky boy and it has a decent amount of battery. My rig has a 650W PSU and having that and my laptop plugged in, the display estimates an hour of battery life. With everything off, it estimates 8 hours. There's software available too. It works straight out of the box after plugging it into the wall; it holds a nearly full charge on arrival.",
+      "BIG, BEEFY BOY. It's expensive, it weighs about half a million pounds, but you will not regret having it. Power flickers and outages are nothing for it. It will power all but the most excessive systems for upwards of an hour - even longer in most cases. Something I find rather nice is all the readouts it gives you; I've used this thing to test my rig's maximum power draw, which actually came out to about 414W.\nOverall, worth the money!",
+      "Piece of mind and does the job."
+    ]
+  },
+  {
+    "name": "CyberPower UT850EG UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "UT850EG",
+      "Capacity (W)": "425 W",
+      "Capacity (VA)": "850 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/s9KnTW/cyberpower-ut850eg-ups-ut850eg",
+    "comments": []
+  },
+  {
+    "name": "CyberPower OR2200LCDRTXL2U UPS",
+    "price": 905.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "OR2200LCDRTXL2U",
+      "Capacity (W)": "1650 W",
+      "Capacity (VA)": "2190 VA",
+      "Rack Height": "2U",
+      "Backup/Run Time (Full Load)": "6 Minutes",
+      "Backup/Run Time (Half Load)": "14 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-11\nRG-6\nRJ-45",
+      "Form Factor": "Tower/Rack Mountable",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "8 x NEMA 5-20R",
+      "Serial Port": "Yes",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/HccMnQ/cyberpower-ups-or2200lcdrtxl2u",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP1200AVR UPS",
+    "price": 169.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1200AVR",
+      "Capacity (W)": "720 W",
+      "Capacity (VA)": "1200 VA",
+      "Alarm": "Low Battery\nOn Battery\nOverload",
+      "Backup/Run Time (Full Load)": "3 Minutes",
+      "Backup/Run Time (Half Load)": "12 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Battery Life": "6 Year",
+      "Dataline Protection": "RJ-45\nType F Connector\nRJ-11",
+      "Emergency Power OFF": "No",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "4 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "4 ms",
+      "USB": "Yes",
+      "Waveform Type": "Simulated Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/s2RFf7/cyberpower-ups-cp1200avr",
+    "comments": []
+  },
+  {
+    "name": "APC Back-UPS 1000 UPS",
+    "price": 183.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS 1000",
+      "Part #": "BX1000M",
+      "Capacity (W)": "600 W",
+      "Capacity (VA)": "1000 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/v6kWGX/apc-back-ups-1000-ups-bx1000m",
+    "comments": []
+  },
+  {
+    "name": "Tripp Lite SMART2200RM2U UPS",
+    "price": 1107.9,
+    "specs": {
+      "Manufacturer": "Tripp Lite",
+      "Part #": "SMART2200RM2U",
+      "Capacity (W)": "1920 W",
+      "Capacity (VA)": "2200 VA",
+      "Rack Height": "2U",
+      "Alarm": "On Battery\nOverload\nLow Battery",
+      "Backup/Run Time (Full Load)": "5 Minutes",
+      "Backup/Run Time (Half Load)": "13 Minutes",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Rack-mountable",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "4.50 Hour",
+      "Output Voltage": "120 V AC\n110 V AC",
+      "Protection Type": "Over Voltage\nUnder Voltage",
+      "Receptacles": "4 x NEMA 5-15R\n4 x NEMA 5-15/20R",
+      "Serial Port": "Yes",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/BgL7YJ/tripp-lite-ups-smart2200rm2u",
+    "comments": []
+  },
+  {
+    "name": "APC SMT1500US UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMT1500US",
+      "Capacity (W)": "1000 W",
+      "Capacity (VA)": "1440 VA",
+      "Backup/Run Time (Full Load)": "7 Minutes",
+      "Backup/Run Time (Half Load)": "23 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Optional",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "8 x NEMA 5-15R",
+      "USB": "Yes"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Z3FXsY/apc-ups-smt1500us",
+    "comments": [
+      "Fished this thing out of the dumpster behind and old job of mine. The office was being completely redone and things were just being tossed out. I guess this thing was bought years ago as a backup for a small local server like a week before CVS decided they wanted to rehaul the whole server situation. Brand new. The IT guy was going to use it for his sump pump, but he decided that me using it for my computer was a better use for it. It’s definitely saved my *** a dozen or so times when power gets killed. Apparently there is some monitoring software for it on Windows, but I never looked into if for Linux."
+    ]
+  },
+  {
+    "name": "CyberPower EC750G UPS",
+    "price": 109.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "EC750G",
+      "Capacity (W)": "450 W",
+      "Capacity (VA)": "750 VA",
+      "Backup/Run Time (Full Load)": "1.80 Minutes",
+      "Backup/Run Time (Half Load)": "9 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Dataline Protection": "RJ-11",
+      "Form Factor": "Desktop",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "6 x NEMA 5-15R",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/rKZ2FT/cyberpower-ups-ec750g",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP1000AVRLCD UPS",
+    "price": 175.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1000AVRLCD",
+      "Capacity (W)": "600 W",
+      "Capacity (VA)": "1000 VA",
+      "Backup/Run Time (Full Load)": "1 Minute",
+      "Backup/Run Time (Half Load)": "6 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-45\nRJ-11\nRG-6",
+      "Form Factor": "Tower",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "5 x NEMA 5-15R\n4 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "4 ms",
+      "USB": "Yes"
+    },
+    "rating": "(3 Ratings, 3.3 Average)",
+    "link": "https://pcpartpicker.com/product/2Ps8TW/cyberpower-ups-cp1000avrlcd",
+    "comments": [
+      "Bought this UPS and it randomly shuts off without any power surge or high loads. Will be replaced promptly. Also, unable to return it to Amazon (despite only having it for a few days - they cited \"health and safety regulations\") so need to work directly with manufacture... very annoying.",
+      "Keeps my system running even when we have power outages.",
+      "It works very well. Haven't messed with the settings that much, but it makes me less afraid during rainstorms."
+    ]
+  },
+  {
+    "name": "CyberPower CP900AVR UPS",
+    "price": 159.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP900AVR",
+      "Capacity (W)": "560 W",
+      "Capacity (VA)": "900 VA",
+      "Alarm": "Low Battery\nOn Battery\nOverload",
+      "Backup/Run Time (Full Load)": "3 Minutes",
+      "Backup/Run Time (Half Load)": "12 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Battery Life": "6 Year",
+      "Dataline Protection": "Type F Connector\nRJ-45\nRJ-11",
+      "Emergency Power OFF": "No",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "4 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "4 ms",
+      "USB": "Yes",
+      "Waveform Type": "Simulated Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/JLDzK8/cyberpower-ups-cp900avr",
+    "comments": []
+  },
+  {
+    "name": "CyberPower PR3000LCDSL UPS",
+    "price": 1292.99,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "PR3000LCDSL",
+      "Capacity (W)": "2700 W",
+      "Capacity (VA)": "3000 VA",
+      "Alarm": "Low Battery\nOn Battery\nOverload\nBattery Missing\nFault",
+      "Backup/Run Time (Full Load)": "1.98 Minutes",
+      "Backup/Run Time (Half Load)": "7.50 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Input Voltage": "120 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "6 x NEMA 5-20R\n1 x NEMA L5-30R",
+      "Serial Port": "Yes",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/D9Wrxr/cyberpower-ups-pr3000lcdsl",
+    "comments": []
+  },
+  {
+    "name": "APC BR1500GI UPS",
+    "price": 601.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BR1500GI",
+      "Capacity (W)": "865 W",
+      "Capacity (VA)": "1500 VA",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-45\nRJ-11",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "230 V AC",
+      "Serial Port": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/N7hj4D/apc-ups-br1500gi",
+    "comments": []
+  },
+  {
+    "name": "Tripp Lite BC350 UPS",
+    "price": 64.99,
+    "specs": {
+      "Manufacturer": "Tripp Lite",
+      "Part #": "BC350",
+      "Capacity (W)": "180 W",
+      "Capacity (VA)": "350 VA",
+      "Backup/Run Time (Full Load)": "2.50 Minutes",
+      "Backup/Run Time (Half Load)": "8 Minutes",
+      "Form Factor": "Mini Desktop",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "4 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "3 x NEMA 5-15R"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/CjcMnQ/tripp-lite-ups-bc350",
+    "comments": []
+  },
+  {
+    "name": "CyberPower PR2200LCD UPS",
+    "price": 1569.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "PR2200LCD",
+      "Capacity (W)": "1980 W",
+      "Capacity (VA)": "2200 VA",
+      "Alarm": "Low Battery\nOn Battery\nOverload",
+      "Backup/Run Time (Full Load)": "7.80 Minutes",
+      "Backup/Run Time (Half Load)": "25.80 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Form Factor": "Tower",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "2 x NEMA 5-20R\n8 x NEMA 5-15R"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/4ccMnQ/cyberpower-ups-pr2200lcd",
+    "comments": []
+  },
+  {
+    "name": "Tripp Lite SMART1500PSGLCD UPS",
+    "price": 330.55,
+    "specs": {
+      "Manufacturer": "Tripp Lite",
+      "Part #": "SMART1500PSGLCD",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/PFcG3C/tripp-lite-smart1500psglcd-ups-smart1500psglcd",
+    "comments": []
+  },
+  {
+    "name": "APC SMX1500RMI2UNC UPS",
+    "price": 1385.61,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMX1500RMI2UNC",
+      "Capacity (W)": "1200 W",
+      "Capacity (VA)": "1500 VA",
+      "Rack Height": "2U",
+      "Backup/Run Time (Full Load)": "6 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower/Rack Mountable",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "230 V AC",
+      "Serial Port": "Yes",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Lm8H99/apc-ups-smx1500rmi2unc",
+    "comments": []
+  },
+  {
+    "name": "APC SRT8KXLI UPS",
+    "price": 5429.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SRT8KXLI",
+      "Capacity (W)": "8000 W",
+      "Capacity (VA)": "8000 VA",
+      "Alarm": "Battery Failure",
+      "Backup/Run Time (Full Load)": "5 Minutes",
+      "Backup/Run Time (Half Load)": "16 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "1.50 Hour",
+      "Output Voltage": "230 V AC",
+      "Protection Type": "Surge\nSpike\nLightning",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/hzM323/apc-ups-srt8kxli",
+    "comments": []
+  },
+  {
+    "name": "CyberPower EC650LCD UPS",
+    "price": 96.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "EC650LCD",
+      "Capacity (W)": "390 W",
+      "Capacity (VA)": "650 VA",
+      "Battery Chemistry": "Lead Acid",
+      "Dataline Protection": "RJ-11",
+      "Form Factor": "Desktop",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "4 x NEMA 5-15R",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/xwVBD3/cyberpower-ups-ec650lcd",
+    "comments": []
+  },
+  {
+    "name": "APC SMX1500RMI2U UPS",
+    "price": 1242.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMX1500RMI2U",
+      "Capacity (W)": "1200 W",
+      "Capacity (VA)": "1500 VA",
+      "Rack Height": "2U",
+      "Backup/Run Time (Full Load)": "5 Minutes",
+      "Backup/Run Time (Half Load)": "14 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower/Rack Mountable",
+      "Output Voltage": "230 V AC",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/nRGj4D/apc-ups-smx1500rmi2u",
+    "comments": []
+  },
+  {
+    "name": "CyberPower PR3000LCDRTXL2U UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "PR3000LCDRTXL2U",
+      "Capacity (W)": "3000 W",
+      "Capacity (VA)": "3000 VA",
+      "Rack Height": "2U",
+      "Alarm": "Overload\nOn Battery\nLow Battery",
+      "Backup/Run Time (Full Load)": "2 Minutes",
+      "Backup/Run Time (Half Load)": "5 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Form Factor": "Tower/Rack Mountable",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "120 V AC",
+      "Maximum Battery Recharge Time": "6 Hour",
+      "Output Voltage": "120 V AC",
+      "Protection Type": "EMI / RFI",
+      "Receptacles": "8 x NEMA 5-20R\n1 x NEMA L5-30R",
+      "Serial Port": "Yes",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/wd648d/cyberpower-ups-pr3000lcdrtxl2u",
+    "comments": []
+  },
+  {
+    "name": "Tripp Lite SMART1500LCD UPS",
+    "price": 291.58,
+    "specs": {
+      "Manufacturer": "Tripp Lite",
+      "Part #": "SMART1500LCD",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA",
+      "Rack Height": "2U",
+      "Backup/Run Time (Full Load)": "3.50 Minutes",
+      "Backup/Run Time (Half Load)": "13 Minutes",
+      "Dataline Protection": "RJ-45",
+      "Form Factor": "Tower/Rack Mountable",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Protection Type": "Brownout\nOver Voltage",
+      "Receptacles": "8 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "4 ms",
+      "USB": "Yes",
+      "Waveform Type": "Pulse-width Modulated Sine Wave"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/xLDzK8/tripp-lite-ups-smart1500lcd",
+    "comments": [
+      "I've only been using this UPS for around a month, so this is not a long term review. I've tested the auto-shutdown feature for my server using the included software and it worked perfectly. My only two complaints have to do with the power cord: it isn't detachable and it has an angled NEMA plug which made it hard to attach to my rackmounted PDU since the plug goes above or below the 1U the PDU occupies. I had to reconfigure my rack to have empty space above one of the internal PDU outlets which was only possibly because my unmanaged network switch is actually narrower than the full rack width internally."
+    ]
+  },
+  {
+    "name": "CyberPower CP900EPFCLCD UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP900EPFCLCD",
+      "Capacity (W)": "540 W",
+      "Capacity (VA)": "900 VA",
+      "Backup/Run Time (Full Load)": "1 Minutes",
+      "Backup/Run Time (Half Load)": "7 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-11\nRJ-45",
+      "Form Factor": "Tower",
+      "Input Voltage": "230 V AC",
+      "Output Voltage": "230 V AC",
+      "Typical Battery Recharge Time": "8 Hour",
+      "Waveform Type": "Pure Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/McBzK8/cyberpower-cp900epfclcd-ups-cp900epfclcd",
+    "comments": []
+  },
+  {
+    "name": "APC Back-UPS Pro 1350VA UPS",
+    "price": 193.37,
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS Pro 1350VA",
+      "Part #": "BN1350M2",
+      "Capacity (W)": "810 W",
+      "Capacity (VA)": "1350 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/p9bTwP/apc-back-ups-pro-1350va-ups-bn1350m2",
+    "comments": []
+  },
+  {
+    "name": "APC SRT5KRMXLI UPS",
+    "price": 4917.72,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SRT5KRMXLI",
+      "Capacity (W)": "4500 W",
+      "Capacity (VA)": "5000 VA",
+      "Alarm": "Battery Failure",
+      "Backup/Run Time (Full Load)": "4 Minutes",
+      "Backup/Run Time (Half Load)": "12 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Rack-mountable",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "230 V AC",
+      "Protection Type": "Surge\nSpike\nLightning",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/dhqbt6/apc-ups-srt5krmxli",
+    "comments": []
+  },
+  {
+    "name": "APC SRT6KXLT UPS",
+    "price": 5465.79,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SRT6KXLT",
+      "Capacity (W)": "6000 W",
+      "Capacity (VA)": "6000 VA",
+      "Backup/Run Time (Full Load)": "2 Minutes",
+      "Form Factor": "Tower",
+      "Input Voltage": "208 V AC",
+      "Maximum Battery Recharge Time": "1.50 Hour",
+      "Output Voltage": "208 V AC",
+      "Receptacles": "1 x Hard Wire 3-wire (2PH + G)\n2 x NEMA L6-20R\n3 x NEMA L6-30R"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Ppbkcf/apc-ups-srt6kxlt",
+    "comments": []
+  },
+  {
+    "name": "APC BE670M1 UPS",
+    "price": 149.13,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BE670M1",
+      "Capacity (W)": "360 W",
+      "Capacity (VA)": "675 VA",
+      "Battery Type": "Lead-acid battery",
+      "Topology": "Standby",
+      "Transfer Time": "6 ms typical : 10 ms maximum",
+      "Typical recharge time": "10 hours",
+      "Waveform type": "Stepped approximation to a sinewave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/yh3gXL/apc-be670m1-ups-be670m1",
+    "comments": []
+  },
+  {
+    "name": "APC BN1100M2 UPS",
+    "price": 444.22,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BN1100M2",
+      "Capacity (W)": "600 W",
+      "Capacity (VA)": "1100 VA"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/YkTzK8/apc-bn1100m2-ups-bn1100m2",
+    "comments": []
+  },
+  {
+    "name": "APC Back-UPS 850 UPS",
+    "price": 161.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Model": "Back-UPS 850",
+      "Part #": "BX850M",
+      "Capacity (W)": "510 W",
+      "Capacity (VA)": "850 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/J7mmP6/apc-back-ups-850-ups-bx850m",
+    "comments": []
+  },
+  {
+    "name": "APC BE650G1 UPS",
+    "price": 97.49,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BE650G1",
+      "Capacity (W)": "390 W",
+      "Capacity (VA)": "650 VA",
+      "Backup/Run Time (Full Load)": "3 Minutes",
+      "Backup/Run Time (Half Load)": "12 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Dataline Protection": "RJ-45",
+      "Form Factor": "Desktop",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "24 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "4 x NEMA 5-15R",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/tqkwrH/apc-ups-be650g1",
+    "comments": []
+  },
+  {
+    "name": "APC SMT2200I UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMT2200I",
+      "Capacity (W)": "1980 W",
+      "Capacity (VA)": "2200 VA",
+      "Backup/Run Time (Full Load)": "7 Minutes",
+      "Backup/Run Time (Half Load)": "24 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Output Voltage": "230 V AC",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/zVYWGX/apc-ups-smt2200i",
+    "comments": []
+  },
+  {
+    "name": "HP AF461A UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "HP",
+      "Part #": "AF461A",
+      "Capacity (W)": "4500 W",
+      "Capacity (VA)": "5000 VA",
+      "Rack Height": "3U",
+      "Backup/Run Time (Full Load)": "5.70 Minutes",
+      "Backup/Run Time (Half Load)": "16 Minutes",
+      "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Rack-mountable",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "48 Hour"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/9VYWGX/hp-ups-af461a",
+    "comments": []
+  },
+  {
+    "name": "APC BE550G UPS",
+    "price": 99.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BE550G",
+      "Capacity (W)": "330 W",
+      "Capacity (VA)": "550 VA",
+      "Backup/Run Time (Full Load)": "3.30 Minutes",
+      "Backup/Run Time (Half Load)": "13.50 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-11",
+      "Form Factor": "Desktop",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "24 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "4 x NEMA 5-15R",
+      "USB": "Yes"
+    },
+    "rating": "(3 Ratings, 4.3 Average)",
+    "link": "https://pcpartpicker.com/product/KRGj4D/apc-ups-be550g",
+    "comments": [
+      "Puts my mind at ease, knowing that my system is protected from any type of power surge.",
+      "For the first few hours it constantly beeped, then it was fine. Easy to wall mount for them sweet cable pics",
+      "I needed a UPS, this covers me unless I'm pushing the system to the max, otherwise it works and was a good price."
+    ]
+  },
+  {
+    "name": "APC SMX3000RMLV2UNC UPS",
+    "price": 2564.98,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMX3000RMLV2UNC",
+      "Capacity (W)": "2700 W",
+      "Capacity (VA)": "3000 VA",
+      "Rack Height": "2U",
+      "Backup/Run Time (Full Load)": "6 Minutes",
+      "Backup/Run Time (Half Load)": "18 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Rack-mountable",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "3 x NEMA 5-15R\n3 x NEMA 5-20R\n1 x NEMA L5-30R",
+      "Serial Port": "Yes",
+      "Switching Time": "4 ms",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/2yfmP6/apc-ups-smx3000rmlv2unc",
+    "comments": []
+  },
+  {
+    "name": "CyberPower LE1000DG UPS",
+    "price": 138.4,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "LE1000DG",
+      "Capacity (W)": "530 W",
+      "Capacity (VA)": "1000 VA"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/ybTZxr/cyberpower-le1000dg-ups-le1000dg",
+    "comments": [
+      "THIS THING IS ENORMOUS, the size of a small infant! We haven't had a power outage just yet, but it's decent enough insurance for if it happens."
+    ]
+  },
+  {
+    "name": "APC SRT8KRMXLI UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SRT8KRMXLI",
+      "Capacity (W)": "8000 W",
+      "Capacity (VA)": "8000 VA",
+      "Rack Height": "6U",
+      "Alarm": "Battery Failure",
+      "Backup/Run Time (Full Load)": "5 Minutes",
+      "Backup/Run Time (Half Load)": "16 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Rack-mountable",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "1.50 Hour",
+      "Output Voltage": "230 V AC",
+      "Protection Type": "Surge\nSpike\nLightning",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/pPs8TW/apc-ups-srt8krmxli",
+    "comments": []
+  },
+  {
+    "name": "Tripp Lite SMART1500LCDT UPS",
+    "price": 229.79,
+    "specs": {
+      "Manufacturer": "Tripp Lite",
+      "Part #": "SMART1500LCDT",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA",
+      "Backup/Run Time (Full Load)": "1.60 Minutes",
+      "Backup/Run Time (Half Load)": "10 Minutes",
+      "Form Factor": "Tower",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Protection Type": "Brownout\nOver Voltage",
+      "Receptacles": "5 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "2 ms",
+      "USB": "Yes",
+      "Waveform Type": "Pulse-width Modulated Sine Wave"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/gRGj4D/tripp-lite-ups-smart1500lcdt",
+    "comments": [
+      "Runs my entire setup for 4 hours during a power outage? Comes with a 5 year warranty that pays em should it fail? Worth every penny.",
+      "I've been using this to make sure that my NAS has as close as possible to 100% up time."
+    ]
+  },
+  {
+    "name": "APC BR1000G UPS",
+    "price": 229.0,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BR1000G",
+      "Capacity (W)": "600 W",
+      "Capacity (VA)": "1000 VA",
+      "Backup/Run Time (Full Load)": "7 Minutes",
+      "Backup/Run Time (Half Load)": "20 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-45",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "4 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "USB": "Yes"
+    },
+    "rating": "(4 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/4kTrxr/apc-ups-br1000g",
+    "comments": [
+      "i'll know when the power cuts off... way too scared to deliberately pull the plug to test... fingers crossed.",
+      "Keeps my **** safe, i dig it.",
+      "Does what it's made to do and has a nice readout of your current wattage draw.",
+      "Nice product with power saving options. Available software to enhance its performance and improves battery utilization."
+    ]
+  },
+  {
+    "name": "CyberPower CP850AVRLCD UPS",
+    "price": 164.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP850AVRLCD",
+      "Capacity (W)": "510 W",
+      "Capacity (VA)": "850 VA",
+      "Backup/Run Time (Full Load)": "1 Minute",
+      "Backup/Run Time (Half Load)": "7 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RG-6\nRJ-45\nRJ-11",
+      "Form Factor": "Tower",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "5 x NEMA 5-15R\n4 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "4 ms",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Zpbkcf/cyberpower-ups-cp850avrlcd",
+    "comments": []
+  },
+  {
+    "name": "Tripp Lite SU3000XLCD UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Tripp Lite",
+      "Part #": "SU3000XLCD",
+      "Capacity (W)": "2700 W",
+      "Capacity (VA)": "3000 VA",
+      "Backup/Run Time (Full Load)": "4.10 Minutes",
+      "Backup/Run Time (Half Load)": "13.20 Minutes",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "127 V AC\n120 V AC\n110 V AC",
+      "Receptacles": "8 x NEMA 5-15/20R\n1 x NEMA L5-30R",
+      "Serial Port": "Yes",
+      "Switching Time": "0 ns",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/fKZ2FT/tripp-lite-ups-su3000xlcd",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP1500EPFCLCD UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1500EPFCLCD",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/CQBzK8/cyberpower-cp1500epfclcd-ups-cp1500epfclcd",
+    "comments": []
+  },
+  {
+    "name": "APC SMT2200RM2U UPS",
+    "price": 1399.89,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMT2200RM2U",
+      "Capacity (W)": "1980 W",
+      "Capacity (VA)": "2200 VA",
+      "Rack Height": "2U",
+      "Backup/Run Time (Full Load)": "5 Minutes",
+      "Backup/Run Time (Half Load)": "22 Minutes",
+      "Battery Chemistry": "Lead Acid",
+      "Form Factor": "Rack-mountable",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "6 x NEMA 5-15R\n2 x NEMA 5-20R",
+      "Serial Port": "Yes",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/BBPzK8/apc-ups-smt2200rm2u",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP850PFCLCD UPS",
+    "price": 169.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP850PFCLCD",
+      "Capacity (W)": "510 W",
+      "Capacity (VA)": "850 VA",
+      "Backup/Run Time (Full Load)": "1.98 Minutes",
+      "Backup/Run Time (Half Load)": "7.80 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-11\nRG-6",
+      "Form Factor": "Mini-tower",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "10 x NEMA 5-15R",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Q4Crxr/cyberpower-ups-cp850pfclcd",
+    "comments": [
+      "Awesome to know my PC will be protected if something happens, got cheap through my fathers work."
+    ]
+  },
+  {
+    "name": "CyberPower GX1500U UPS",
+    "price": 241.99,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "GX1500U",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA",
+      "Active PFC Compatible": "Yes",
+      "Alarm": "Battery Mode\nLow Battery\nOverload\nFault",
+      "Backup/Run Time (Full Load)": "2 Minutes",
+      "Backup/Run Time (Half Load)": "11 Minutes",
+      "Battery Type": "Sealed Lead-Acid Battery",
+      "Dataline Protection": "Network",
+      "Form Factor": "Mini-Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage Range": "88 V AC - 144 V AC",
+      "Nominal Voltage Range": "120 V AC",
+      "Outlets": "6x Battery & Surge Protected\n6x Surge-Only Protected",
+      "Replacement Battery Cartridge": "RB1290X2",
+      "Serial Port": "Yes",
+      "Typical Battery Recharge Time": "8 Hour",
+      "USB": "Yes",
+      "User Replaceable Battery": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/HWNgXL/cyberpower-gx1500u-ups-gx1500u",
+    "comments": []
+  },
+  {
+    "name": "APC BK325I UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BK325I",
+      "Capacity (W)": "210 W",
+      "Capacity (VA)": "325 VA",
+      "Backup/Run Time (Full Load)": "6.60 Minutes",
+      "Backup/Run Time (Half Load)": "23.40 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "220 V AC",
+      "Maximum Battery Recharge Time": "6 Hour",
+      "Output Voltage": "230 V AC",
+      "Receptacles": "3 x IEC 320-C13\n1 x IEC 320-C13"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/2nnG3C/apc-ups-bk325i",
+    "comments": []
+  },
+  {
+    "name": "APC BK500EI UPS",
+    "price": 153.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BK500EI",
+      "Capacity (W)": "300 W",
+      "Capacity (VA)": "500 VA",
+      "Alarm": "On Battery\nLow Battery\nOverload",
+      "Backup/Run Time (Full Load)": "2.40 Minutes",
+      "Backup/Run Time (Half Load)": "13.90 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-45",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "220 V AC",
+      "Output Voltage": "230 V AC",
+      "Receptacles": "2 x IEC 320-C13\n3 x IEC 320-C13\n1",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/6d648d/apc-ups-bk500ei",
+    "comments": []
+  },
+  {
+    "name": "APC SRT5KXLT UPS",
+    "price": 3340.0,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SRT5KXLT",
+      "Capacity (W)": "4250 W",
+      "Capacity (VA)": "5000 VA",
+      "Form Factor": "Tower",
+      "Input Voltage": "208 V AC",
+      "Maximum Battery Recharge Time": "1.50 Hour",
+      "Output Voltage": "208 V AC",
+      "Receptacles": "2 x NEMA L6-20R\n2 x NEMA L6-30R"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/cD8H99/apc-ups-srt5kxlt",
+    "comments": []
+  },
+  {
+    "name": "APC SMC1500 UPS",
+    "price": 555.89,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMC1500",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA",
+      "Backup/Run Time (Full Load)": "4 Minutes",
+      "Backup/Run Time (Half Load)": "13 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Optional",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "8 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/73FXsY/apc-ups-smc1500",
+    "comments": []
+  },
+  {
+    "name": "CyberPower AVRG900U UPS",
+    "price": 134.94,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "AVRG900U",
+      "Capacity (W)": "480 W",
+      "Capacity (VA)": "900 VA",
+      "Alarm": "On Battery\nLow Battery\nOverload",
+      "Backup/Run Time (Full Load)": "10 Minutes",
+      "Backup/Run Time (Half Load)": "2 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-11",
+      "Form Factor": "Desktop",
+      "Input Voltage": "120 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Protection Type": "Surge\nEMI\nRFI",
+      "Receptacles": "12 x NEMA 5-15R",
+      "USB": "Yes",
+      "Waveform Type": "Simulated Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/pTH48d/cyberpower-ups-avrg900u",
+    "comments": []
+  },
+  {
+    "name": "Tripp Lite SU1500XLCD UPS",
+    "price": 1250.25,
+    "specs": {
+      "Manufacturer": "Tripp Lite",
+      "Part #": "SU1500XLCD",
+      "Capacity (W)": "1350 W",
+      "Capacity (VA)": "1500 VA",
+      "Backup/Run Time (Full Load)": "4.50 Minutes",
+      "Backup/Run Time (Half Load)": "14 Minutes",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "127 V AC\n110 V AC\n120 V AC",
+      "Receptacles": "6 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "0 ns",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/72RFf7/tripp-lite-ups-su1500xlcd",
+    "comments": []
+  },
+  {
+    "name": "APC SMX2200HV UPS",
+    "price": 1999.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMX2200HV",
+      "Capacity (W)": "1980 W",
+      "Capacity (VA)": "2200 VA",
+      "Rack Height": "4U",
+      "Alarm": "Low Battery\nConfigurable Delay\nOn Battery",
+      "Backup/Run Time (Full Load)": "10 Minutes",
+      "Backup/Run Time (Half Load)": "25 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower/Rack Mountable",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "220 V AC",
+      "USB": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/RWX2FT/apc-ups-smx2200hv",
+    "comments": []
+  },
+  {
+    "name": "Tripp Lite SU2200XLCD UPS",
+    "price": 1529.96,
+    "specs": {
+      "Manufacturer": "Tripp Lite",
+      "Part #": "SU2200XLCD",
+      "Capacity (W)": "1800 W",
+      "Capacity (VA)": "2200 VA",
+      "Backup/Run Time (Full Load)": "4.50 Minutes",
+      "Backup/Run Time (Half Load)": "13 Minutes",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "127 V AC\n110 V AC\n120 V AC",
+      "Receptacles": "1 x NEMA L5-20R\n6 x NEMA 5-15/20R",
+      "Serial Port": "Yes",
+      "Switching Time": "0 ns",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/b4Crxr/tripp-lite-ups-su2200xlcd",
+    "comments": []
+  },
+  {
+    "name": "APC BK350 UPS",
+    "price": 119.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BK350",
+      "Capacity (W)": "210 W",
+      "Capacity (VA)": "350 VA",
+      "Alarm": "On Battery\nLow Battery\nOverload",
+      "Backup/Run Time (Full Load)": "6.60 Minutes",
+      "Backup/Run Time (Half Load)": "23.70 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Dataline Protection": "RJ-11",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "3 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "USB": "Yes",
+      "Waveform Type": "Step Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/bD8H99/apc-ups-bk350",
+    "comments": []
+  },
+  {
+    "name": "APC BR900GI UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BR900GI",
+      "Capacity (W)": "540 W",
+      "Capacity (VA)": "900 VA",
+      "Backup/Run Time (Full Load)": "5 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Form Factor": "Tower",
+      "Output Voltage": "230 V AC"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/VXH48d/apc-ups-br900gi",
+    "comments": []
+  },
+  {
+    "name": "APC SMC1500I UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMC1500I",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA",
+      "Backup/Run Time (Full Load)": "8 Minutes",
+      "Backup/Run Time (Half Load)": "28 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Optional",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "230 V AC",
+      "Serial Port": "Yes",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/VKZ2FT/apc-ups-smc1500i",
+    "comments": []
+  },
+  {
+    "name": "APC SMX3000HVNC UPS",
+    "price": 3230.0,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMX3000HVNC",
+      "Capacity (W)": "2700 W",
+      "Capacity (VA)": "3000 VA",
+      "Rack Height": "4U",
+      "Alarm": "Low Battery",
+      "Backup/Run Time (Full Load)": "6 Minutes",
+      "Backup/Run Time (Half Load)": "18 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower/Rack Mountable",
+      "Hot Swappable": "Yes",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "230 V AC",
+      "Protection Type": "Surge\nAC Noise",
+      "Serial Port": "Yes",
+      "Waveform Type": "Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/gf8H99/apc-ups-smx3000hvnc",
+    "comments": []
+  },
+  {
+    "name": "APC BE850G2 UPS",
+    "price": 139.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BE850G2",
+      "Capacity (W)": "450 W",
+      "Capacity (VA)": "850 VA",
+      "Backup/Run Time (Full Load)": "2 Minutes 23 Seconds",
+      "Waveform Type": "Stepped Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/8Pnypg/apc-be850g2-ups-be850g2",
+    "comments": []
+  },
+  {
+    "name": "APC SMT1500 UPS",
+    "price": 574.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMT1500",
+      "Capacity (W)": "980 W",
+      "Capacity (VA)": "1500 VA",
+      "Backup/Run Time (Full Load)": "6.70 Minutes",
+      "Backup/Run Time (Half Load)": "23.90 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Optional",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "8 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/ctJkcf/apc-ups-smt1500",
+    "comments": []
+  },
+  {
+    "name": "APC SMX3000LVNC UPS",
+    "price": 2797.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMX3000LVNC",
+      "Capacity (W)": "2700 W",
+      "Capacity (VA)": "3000 VA",
+      "Rack Height": "4U",
+      "Backup/Run Time (Full Load)": "6 Minutes",
+      "Backup/Run Time (Half Load)": "18 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower/Rack Mountable",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "3 x NEMA 5-20R\n3 x NEMA L5-30R\n1 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "4 ms",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/7LDzK8/apc-ups-smx3000lvnc",
+    "comments": []
+  },
+  {
+    "name": "Eaton 66942 UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Eaton",
+      "Part #": "66942",
+      "Capacity (W)": "250 W",
+      "Capacity (VA)": "500 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/RRvZxr/eaton-ups-66942",
+    "comments": []
+  },
+  {
+    "name": "APC BN650M1 UPS",
+    "price": 89.99,
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "BN650M1",
+      "Capacity (W)": "360 W",
+      "Capacity (VA)": "650 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/n2yV3C/apc-bn650m1-ups-bn650m1",
+    "comments": []
+  },
+  {
+    "name": "CyberPower XC625 UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "XC625",
+      "Capacity (W)": "375 W",
+      "Capacity (VA)": "625 VA"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/47NYcf/cyberpower-xc625-ups-xc625",
+    "comments": []
+  },
+  {
+    "name": "APC SMT2200US UPS",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "APC",
+      "Part #": "SMT2200US",
+      "Capacity (W)": "1980 W",
+      "Capacity (VA)": "2200 VA",
+      "Backup/Run Time (Full Load)": "8 Minutes",
+      "Backup/Run Time (Half Load)": "22 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Emergency Power OFF": "Yes",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "3 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "8 x NEMA 5-15R\n2 x NEMA 5-20R",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/2wVBD3/apc-ups-smt2200us",
+    "comments": []
+  },
+  {
+    "name": "CyberPower CP1500AVRT UPS",
+    "price": 219.95,
+    "specs": {
+      "Manufacturer": "CyberPower",
+      "Part #": "CP1500AVRT",
+      "Capacity (W)": "900 W",
+      "Capacity (VA)": "1500 VA",
+      "Alarm": "Low Battery\nOn Battery\nOverload",
+      "Backup/Run Time (Full Load)": "3 Minutes",
+      "Backup/Run Time (Half Load)": "11 Minutes",
+      "Battery Chemistry": "Sealed Lead Acid",
+      "Battery Life": "6 Year",
+      "Dataline Protection": "Type F Connector\nRJ-45\nRJ-11",
+      "Emergency Power OFF": "No",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "8 Hour",
+      "Output Voltage": "120 V AC",
+      "Receptacles": "4 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "Switching Time": "4 ms",
+      "USB": "Yes",
+      "Waveform Type": "Simulated Sine Wave"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/yM8H99/cyberpower-ups-cp1500avrt",
+    "comments": []
+  },
+  {
+    "name": "HP AF450A UPS",
+    "price": 195.0,
+    "specs": {
+      "Manufacturer": "HP",
+      "Part #": "AF450A",
+      "Capacity (W)": "950 W",
+      "Capacity (VA)": "1400 VA",
+      "Backup/Run Time (Full Load)": "5 Minutes",
+      "Backup/Run Time (Half Load)": "15 Minutes",
+      "Battery Chemistry": "Sealed Valve-regulated Lead Acid (VRLA)",
+      "Form Factor": "Tower",
+      "Hot Swappable": "Yes",
+      "Input Voltage": "110 V AC",
+      "Maximum Battery Recharge Time": "24 Hour",
+      "Output Voltage": "240 V AC",
+      "Receptacles": "6 x NEMA 5-15R",
+      "Serial Port": "Yes",
+      "USB": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/6CyxFT/hp-ups-af450a",
+    "comments": []
+  }
+]

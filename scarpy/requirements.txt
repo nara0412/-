@@ -1,0 +1,5 @@
+selenium
+fake-useragent
+openpyxl
+pypartpicker
+webdriver-manager
